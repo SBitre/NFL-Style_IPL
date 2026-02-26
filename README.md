@@ -30,7 +30,7 @@ npm run build
 npx gh-pages -d dist
 ```
 
-Live link: `https://YOUR_USERNAME.github.io/nfl-style-ipl/`
+Live link: `https://SBitre.github.io/nfl-style-ipl/`
 
 ## 📋 Pages
 
