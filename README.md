@@ -1,6 +1,6 @@
 # 🏏 NFL-Style IPL — 36 Teams Fantasy League (Premium Edition)
 
-### 🌐 [**LIVE DEMO → sbitre.github.io/NFL-Style_IPL**](https://sbitre.github.io/NFL-Style_IPL/)
+### 🌐 [**LIVE DEMO → SBitre.github.io/NFL-Style_IPL**](https://SBitre.github.io/NFL-Style_IPL/)
 
 A wild fantasy concept: What if every Indian state & UT had its own IPL team, organized NFL-style with conferences, divisions, playoffs, and a Super Bowl?
 
