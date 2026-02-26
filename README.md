@@ -1,5 +1,7 @@
 # 🏏 NFL-Style IPL — 36 Teams Fantasy League (Premium Edition)
 
+### 🌐 [**LIVE DEMO → sbitre.github.io/NFL-Style_IPL**](https://sbitre.github.io/NFL-Style_IPL/)
+
 A wild fantasy concept: What if every Indian state & UT had its own IPL team, organized NFL-style with conferences, divisions, playoffs, and a Super Bowl?
 
 ![React](https://img.shields.io/badge/React-18-blue) ![Vite](https://img.shields.io/badge/Vite-5-purple) ![Teams](https://img.shields.io/badge/Teams-36-green) ![Players](https://img.shields.io/badge/Players-792-orange)
@@ -14,23 +16,14 @@ A wild fantasy concept: What if every Indian state & UT had its own IPL team, or
 - **NFL-style Playoff Bracket** → IPL Super Bowl
 - **IPL-official-style UI** — sticky nav, hero banners, team cards, scrollable carousels
 
-## 🚀 Quick Start
+## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nfl-style-ipl.git
-cd nfl-style-ipl
+git clone https://github.com/SBitre/NFL-Style_IPL.git
+cd NFL-Style_IPL
 npm install
 npm run dev
 ```
-
-## 🌐 Deploy to GitHub Pages
-
-```bash
-npm run build
-npx gh-pages -d dist
-```
-
-Live link: `https://SBitre.github.io/nfl-style-ipl/`
 
 ## 📋 Pages
 
